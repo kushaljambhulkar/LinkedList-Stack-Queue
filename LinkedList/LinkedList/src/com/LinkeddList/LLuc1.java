@@ -1,5 +1,7 @@
 package com.LinkeddList;
+
 public class LLuc1 {
+public class LinkedListUc1 {
 // Represent a node of the singly linked list
 	class Node{
 		int data;
